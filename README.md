@@ -8,4 +8,4 @@
     - cardiffnlp/twitter-roberta-base-sentiment-latest → 감정분석 모델
     - eenzeenee/t5-base-korean-summarization → 요약 모델
     - facebook/nllb-200-distilled-600M  → 번역 모델
-4. 모델을 이용한 fast api 서빙
+### 요약을 해주고 감정 분석을 해줌(감정분석 모델이 영어이고 요약이 한글이여서 번역모델 필요함)
